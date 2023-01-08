@@ -21,7 +21,7 @@ pipeline {
         }
         stage ('Get CodeBackend' ) {
             steps {
-            //git branch: 'main', url: 'https://github.com/mdychton/Frontend.git'
+            //git branch: 'main', url: 'https://github.com/mdychton/Backend.git'
              checkout scm
             }
         }
