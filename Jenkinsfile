@@ -1,6 +1,6 @@
-def imageName="192.168.44.44:8082/dockerrepo/backend"
-def dockerRegistry="http://192.168.44.44:8082"
-def registryCredentials="artifactory"
+def imageName="mddocker1990/backend"
+def dockerRegistry=""
+def registryCredentials="mddocker1990"
 def dockerTag=""
 
 
